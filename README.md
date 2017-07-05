@@ -1,1 +1,1 @@
-# s14core
+# this is betacore
